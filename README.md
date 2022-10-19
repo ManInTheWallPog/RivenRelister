@@ -7,3 +7,4 @@ Credentials are not saved or anything and are only kept while the program is run
 
 I have shamelessly stolen a bunch of code from:
 https://github.com/Valkam-Git/Warframe-Market-deal-finder
+Basically its just a broken down Version of his tool
